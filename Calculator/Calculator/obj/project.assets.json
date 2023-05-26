@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samed\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\samed\\OneDrive\\Рабочий стол\\Repo\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\samed\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\samed\\OneDrive\\Рабочий стол\\Repo\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\samed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samed\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\samed\\OneDrive\\Рабочий стол\\Repo\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
